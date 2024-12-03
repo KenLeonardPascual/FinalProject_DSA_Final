@@ -1,0 +1,9 @@
+# ninja log v6
+14	1488	7548931223801134	FinalProject_DSA_Final_autogen/timestamp	a6ed983d61be9a51
+14	1488	7548931223801134	FinalProject_DSA_Final_autogen/mocs_compilation.cpp	a6ed983d61be9a51
+14	1488	7548931223801134	C:/Users/Leon Pascual/Downloads/finproject/FinalProject_DSA_Final/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/FinalProject_DSA_Final_autogen/timestamp	a6ed983d61be9a51
+14	1488	7548931223801134	C:/Users/Leon Pascual/Downloads/finproject/FinalProject_DSA_Final/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/FinalProject_DSA_Final_autogen/mocs_compilation.cpp	a6ed983d61be9a51
+1501	6440	7548931225859523	CMakeFiles/FinalProject_DSA_Final.dir/FinalProject_DSA_Final_autogen/mocs_compilation.cpp.obj	5f1c1279442b22aa
+1508	6458	7548931225929955	CMakeFiles/FinalProject_DSA_Final.dir/main.cpp.obj	203827f97087b684
+1515	8700	7548931225995220	CMakeFiles/FinalProject_DSA_Final.dir/home.cpp.obj	5e38ceb0be8795ff
+8701	9043	7548931297857633	FinalProject_DSA_Final.exe	cea08f34828bae8f
